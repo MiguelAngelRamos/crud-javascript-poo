@@ -1,3 +1,4 @@
+import User from './classes/user.js';
 class UserManager {
   
   constructor() {
